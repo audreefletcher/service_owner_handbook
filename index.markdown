@@ -4,3 +4,13 @@
 
 layout: home
 ---
+# Contents
+
+Preface
+
+- [Licence](../product-management-handbook/sharing)
+
+
+**What does product management mean within government?**
+
+- [Product management is responsible for value](../product-management-handbook/value)
