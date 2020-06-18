@@ -8,47 +8,47 @@ layout: home
 
 Preface
 
-- [Licence]
-- [Where did this handbook come from?]
-- [Who is this handbook for?]
-- [About the author]
+- [Licence](../product-management-handbook/sharing)
+- [Where did this handbook come from?](../product-management-handbook/preface)
+- [Who is this handbook for?](../product-management-handbook/audience)
+- [About the author](../product-management-handbook/about)
 
 **What does product management mean within government?**
 
-- [Product management is responsible for value]
-- [We run things like mini-businesses]
-- [We manage the value of public and staff services]
-- [Origins of the role of Product Manager]
-- [We have publicly available role descriptions]
-- [The career pathway for product managers]
-- [Tool: career pathway diagram]
+- [Product management is responsible for value](../product-management-handbook/value)
+- [We run things like mini-businesses](../product-management-handbook/business)
+- [We manage the value of public and staff services](../product-management-handbook/publicservice)
+- [Origins of the role of Product Manager](../product-management-handbook/origins)
+- [We have publicly available role descriptions](../product-management-handbook/roledescription)
+- [The career pathway for product managers](../product-management-handbook/pathway)
+- [Tool: career pathway diagram](../product-management-handbook/pathwaydiagram)
 
 **Associate Product Manager**
 
-- [The Associate Product Manager role provides the core, tactical principles and skills of product management]
-- [Work with agility]
-- [Make use of the Scrum framework]
-- [Make use of the Government Service Toolkit]
+- [The Associate Product Manager role provides the core, tactical principles and skills of product management](../product-management-handbook/apmsummary)
+- [Work with agility](../product-management-handbook/agility)
+- [Make use of the Scrum framework](../product-management-handbook/scrum)
+- [Make use of the Government Service Toolkit](../product-management-handbook/servicetoolkit)
 
 **Product Manager**
 
-- [The Product Manager role develops the strategic principles and skills of product management]
-- [Make use of the Lean Startup]
-- [Simplicity - the art of maximising the amount of work not done - is essential]
-- [Make promises to solve problems, not commitments to specific solutions and features]
-- [People are our competitive advantage]
-- [It's OK to say 'no']
+- [The Product Manager role develops the strategic principles and skills of product management](../product-management-handbook/pmsummary)
+- [Make use of the Lean Startup](../product-management-handbook/leanstartup)
+- [Simplicity - the art of maximising the amount of work not done - is essential](../product-management-handbook/simplicity)
+- [Make promises to solve problems, not commitments to specific solutions and features](../product-management-handbook/problemfocus)
+- [People are our competitive advantage](../product-management-handbook/people)
+- [It's OK to say 'no'](../product-management-handbook/sayno)
 
 **Product Leadership**
 
-- [Product leadership puts our product management skills to work at a larger scale by developing our business strategy and digital transformation skills]
-- [A note on product leadership roles and career progression]
-- [Keep being brilliant at the basics]
-- [Develop expertise in business strategy and digital transformation]
-- [Develop expertise in teaching, mentoring, coaching and facilitation]
-- [See the bigger picture]
-- [Improve public services, one step at a time]
-- [It's still OK to say 'no']
-- [Senior Product Manager can often be thought of as a group product manager]
-- [Lead Product Manager can often be thought of as a 'head' of product for an area of the business]
-- [Head of Product: have empathy, avoid dogmatism]
+- [Product leadership puts our product management skills to work at a larger scale by developing our business strategy and digital transformation skills](../product-management-handbook/leadershipsummary)
+- [A note on product leadership roles and career progression](../product-management-handbook/leadershiproles)
+- [Keep being brilliant at the basics](../product-management-handbook/basics)
+- [Develop expertise in business strategy and digital transformation](../product-management-handbook/strategytransformation)
+- [Develop expertise in teaching, mentoring, coaching and facilitation](../product-management-handbook/coaching)
+- [See the bigger picture](../product-management-handbook/leadershipdimensions)
+- [Improve public services, one step at a time](../product-management-handbook/pdca)
+- [It's still OK to say 'no'](../product-management-handbook/continuesayingno)
+- [Senior Product Manager can often be thought of as a group product manager](../product-management-handbook/seniorpm)
+- [Lead Product Manager can often be thought of as a 'head' of product for an area of the business](../product-management-handbook/leadpm)
+- [Head of Product: have empathy, avoid dogmatism](../product-management-handbook/hop)
