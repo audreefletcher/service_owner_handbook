@@ -24,12 +24,12 @@
       <h1>Contents</h1>
       <h2><a href="/service_owner_handbook/the-basics">The Basics</a></h2>
       <h2><a href="/service_owner_handbook/capability">Service Owner Capability</a></h2>
+      {% for post in site.posts %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
     </section>
-    {% for post in site.posts %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
     <ul>
 </ul>
     <footer>
