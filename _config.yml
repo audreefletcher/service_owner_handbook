@@ -23,8 +23,8 @@ email: sensemakery@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A white label handbook for service owners in government
 logo: https://www.uhi.ac.uk/en/t4-media/one-web/university/research/resource/ccby-nc-sa.png
-baseurl: "localhost:4000" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/service_owner_handbook" # the subpath of your site, e.g. /blog
+url: "https://audreefletcher.github.io/service_owner_handbook/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: avfletcher
 github_username:  audreefletcher
 
