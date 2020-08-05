@@ -22,16 +22,16 @@ h1, h2, h3 {
 h1 {
   font-size: 36px;
   font-weight: 650;
-  color: #393939;
+  color: #80669c;
 }
 
 h2 {
-  color: #393939;
+  color: #80669c;
   font-weight: 500;
 }
 
 h3, h4, h5, h6 {
-  color: #494949;
+  color: #80669c;
   font-weight: 500;
 }
 
