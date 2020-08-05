@@ -36,7 +36,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color: #39c;
+  color: #80669c;
   text-decoration: none;
 }
 
@@ -157,7 +157,7 @@ header ul a:active {
 header h1 {
   font-size: 36px;
   font-weight: 650;
-  color: #2271AF;
+  color: #80669c;
 }
 
 strong {
