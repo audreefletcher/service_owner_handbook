@@ -22,14 +22,20 @@ title: Service Owner Handbook
 email: sensemakery@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A white label handbook for service owners in government
-baseurl: "/service_owner_handbook" # the subpath of your site, e.g. /blog
-url: "https://audreefletcher.github.io/service_owner_handbook/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:  # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: avfletcher
 github_username:  audreefletcher
 
 # Build settings
 theme: jekyll-theme-minimal
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

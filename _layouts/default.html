@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <!-- Use title if it's in the page YAML frontmatter -->
+  {% if page.title and page.url != "/" %}
+  <title>{{ page.title }} - {{ site.title }}</title>
+  {% else %}
+  <title>{{ site.title | default: "Service Owner Handbook" }}</title>
+  {% endif %}
+  <link rel="stylesheet" href="{{ "/stylesheets/styles.css" | relative_url }}">
+  <meta name="viewport" content="width=device-width">
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <h1><a href="/service_owner_handbook/">Service Owner Handbook</a></h1>
+      <p>A white label handbook for service owners in government</p>
+      <p><small><a href="http://github.com/audreefletcher/service_owner_handbook">View the  GitHub repo for this project</a></small></p>
+    </header>
+    <section>
+      {{ content }}
+    </section>
+    <footer>
+      <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+    </footer>
+  </div>
+  <script src="{{ "/javascripts/scale.fix.js" | relative_url }}"></script>
+</body>
+</html>
