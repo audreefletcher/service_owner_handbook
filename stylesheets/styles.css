@@ -7,7 +7,6 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #80669c;
   margin: 0 0 20px;
 }
 
@@ -25,12 +24,7 @@ h1 {
   color: #80669c;
 }
 
-h2 {
-  color: #80669c;
-  font-weight: 500;
-}
-
-h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
   color: #80669c;
   font-weight: 500;
 }
@@ -41,7 +35,7 @@ a {
 }
 
 a:hover {
-  color: #069;
+  color: #8E78A6;
 }
 
 a small {
@@ -147,17 +141,16 @@ header ul a {
 }
 
 header ul a:hover {
-  color: #999;
+  color: #8E78A6;
 }
 
 header ul a:active {
-  background-color: #f0f0f0;
+  background-color: #8E78A6;
 }
 
 header h1 {
   font-size: 36px;
   font-weight: 650;
-  color: #80669c;
 }
 
 strong {
