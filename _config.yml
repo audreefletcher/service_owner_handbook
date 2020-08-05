@@ -18,24 +18,31 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Service Owner Handbook
-email: sensemakery@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+title:            Service Owner Handbook
+email:            sensemakery@gmail.com
+description:      >- # this means to ignore newlines until "baseurl:"
   A white label handbook for service owners in government
-baseurl:  # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:          # the subpath of your site, e.g. /blog
+url:              # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: avfletcher
 github_username:  audreefletcher
 
 # Build settings
-theme: jekyll-theme-minimal
+theme:            jekyll-theme-minimal
 
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path:       "" # an empty string here means all files in the project
     values:
-      layout: "default"
+      layout:     "default"
+
+-
+      scope:
+        path:     "" # an empty string here means all files in the project
+type: "posts"
+      values:
+      author: "audreefletcher"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
